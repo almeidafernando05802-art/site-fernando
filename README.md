@@ -1,4 +1,4 @@
-Aqui está um site completo em **um único arquivo HTML com CSS interno**, com design moderno em **dark mode com detalhes em azul**:
+
 
 ```html
 <!DOCTYPE html>
