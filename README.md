@@ -199,5 +199,5 @@ Aqui está um site completo em **um único arquivo HTML com CSS interno**, com d
 </html>
 ```
 
-Se quiser, posso melhorar com animações, versão responsiva mais avançada ou adicionar projetos reais depois 👍
+
 
